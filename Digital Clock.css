@@ -1,0 +1,26 @@
+
+body {
+    background: rgb(31, 30, 30);
+}
+
+.clock {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: wheat;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 7px;
+}
+
+.date {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: wheat;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 7px;
+}
