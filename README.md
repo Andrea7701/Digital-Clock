@@ -4,7 +4,7 @@ A Digital clock built in Html, Css and Javascript
 
 # Screenshoot
 
-![Screenshot 2024-02-08 211111](https://github.com/Andrea7701/Digital-Clock/assets/156012853/11177352-7687-44f4-80ab-bdbdd8ac92de)
+![Screenshot 2024-02-08 211111](https://github.com/Andrea7701/Digital-Clock/assets/156012853/279598c4-bf03-43f4-9bcf-a07deb87c7ab)
 
 # Built With 
  - HTML;
